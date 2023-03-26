@@ -15,7 +15,7 @@
 
 
 def info_text():
-  print('Zsharp, public domain')
+  print('Xsharp, public domain')
   print('Feel free to reuse this number displayer')
   print('The reason why i call this a programming language')
   print('is because it displays the language name as well as the number you typed in.')
@@ -25,7 +25,7 @@ def info_text():
  
   def type_num():
     users_number = input('xsharp > ')
-    print('Zsharp -- ' + users_number)
+    print('Xsharp' + users_number)
     
     
 #------------------------------------------
