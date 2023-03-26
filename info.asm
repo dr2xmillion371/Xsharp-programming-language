@@ -1,5 +1,5 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Zsharp -- public domain
+;; Xsharp -- public domain
 ;; Again feel free to use this
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
